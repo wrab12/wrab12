@@ -14,6 +14,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrab12&repo=diff-amp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/wrab12/diff-amp) 
 &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrab12&repo=GenOT&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/wrab12/GenOT) 
+&nbsp;
 
 ## 📊 &nbsp;Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrab12&layout=compact&theme=tokyonight)
