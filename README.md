@@ -18,6 +18,8 @@
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrab12&repo=floatsubs&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/wrab12/floatsubs) 
 &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrab12&repo=awesome-spatial-transcriptomics&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/wrab12/awesome-spatial-transcriptomics) 
+&nbsp;
 
 ## 📊 &nbsp;Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrab12&layout=compact&theme=tokyonight)
